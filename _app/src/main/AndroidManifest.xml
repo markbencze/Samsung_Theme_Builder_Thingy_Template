@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lge.theme.template">
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="24" />
+
+    <application
+        android:allowBackup="true"
+        android:hasCode="false"
+        android:label="LG Theme Template">
+        <meta-data
+            android:name="com.lge.theme.name"
+            android:value="com.lge.theme.template" />
+
+        <activity
+            android:name="android.app.Activity"
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.lge.theme.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

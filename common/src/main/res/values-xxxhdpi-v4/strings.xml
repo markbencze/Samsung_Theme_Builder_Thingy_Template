@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="applied_theme_number_font_name">Roboto-Medium.ttf</string>
+    <string name="applied_theme_number_font_path">fonts/Roboto-Medium.ttf</string>
+    <string name="applied_theme_package_name">com.lge.theme.template</string>
+</resources>

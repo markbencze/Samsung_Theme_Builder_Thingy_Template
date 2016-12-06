@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        applicationId "com.lge.theme.template"
+        minSdkVersion 24
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+task cleanAssetsOverlaysAPKs() << {
+    delete fileTree("${projectDir}/src/main/assets/overlays/").include('**/*.apk')
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+}

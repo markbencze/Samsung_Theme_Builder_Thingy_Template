@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lge.theme.template.common">
+
+    <uses-permission android:name="com.lge.permission.LGE_OVERLAY_THEME_APK" />
+    <overlay
+        android:priority="11"
+        android:targetPackage="com.lge" />
+    <application android:hasCode="false" />
+</manifest>

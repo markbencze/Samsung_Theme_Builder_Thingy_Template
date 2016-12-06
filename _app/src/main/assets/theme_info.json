@@ -1,0 +1,17 @@
+{
+  "appOverlays": [
+    {
+      "apk": "com.lge.theme.template.settings.apk",
+      "pkg": "com.lge.theme.template.settings"
+    }
+  ],
+  "common": {
+    "apk": "com.lge.theme.template.common.apk",
+    "pkg": "com.lge.theme.template.common"
+  },
+  "title": "template",
+  "wallpaper": {
+    "HomeScreen": "wallpaper_home",
+    "LockScreen": "wallpaper_lock"
+  }
+}
