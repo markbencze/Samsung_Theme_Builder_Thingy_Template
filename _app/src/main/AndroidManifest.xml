@@ -1,30 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lge.theme.template">
-
-    <uses-sdk
-        android:minSdkVersion="24"
-        android:targetSdkVersion="24" />
-
-    <application
-        android:allowBackup="true"
-        android:hasCode="false"
-        android:label="LG Theme Template">
-        <meta-data
-            android:name="com.lge.theme.name"
-            android:value="com.lge.theme.template" />
-
-        <activity
-            android:name="android.app.Activity"
-            android:excludeFromRecents="true"
-            android:launchMode="singleInstance">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <action android:name="com.lge.theme.THEME" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-    </application>
-
+<manifest d1p1:versionCode="1" d1p1:versionName="1.0.0" package="com.yourname.themename" platformBuildVersionCode="24" platformBuildVersionName="7.0"
+  xmlns:d1p1="http://schemas.android.com/apk/res/android">
+    <application d1p1:label="Enter Your Theme Name Here" d1p1:hasCode="false" d1p1:allowBackup="false" d1p1:icon="@mipmap/ic_launcher"/>
+    <uses-permission d1p1:name="com.samsung.android.permission.SAMSUNG_OVERLAY_THEME" />
+    <uses-feature d1p1:name="samsung.theme.lock" />
+    <uses-feature d1p1:name="samsung.theme.home" />
+    <uses-feature d1p1:name="samsung.theme.appicon" />
+    <uses-feature d1p1:name="samsung.theme.wallpaper" />
+    <uses-feature d1p1:name="samsung.theme.common" />
+    <uses-feature d1p1:name="samsung.theme.touchwiz" />
+    <uses-feature d1p1:name="samsung.theme.accesscontrol" />
+    <uses-feature d1p1:name="samsung.theme.advsounddetector" />
+    <uses-feature d1p1:name="samsung.theme.aircommand" />
+    <uses-feature d1p1:name="samsung.theme.aodservice" />
+    <uses-feature d1p1:name="samsung.theme.appsedge" />
+    <uses-feature d1p1:name="samsung.theme.assistantmenu" />
+    <uses-feature d1p1:name="samsung.theme.calendar" />
+    <uses-feature d1p1:name="samsung.theme.capabilitymanager" />
+    <uses-feature d1p1:name="samsung.theme.clockpackage" />
+    <uses-feature d1p1:name="samsung.theme.cocktailbarservice" />
+    <uses-feature d1p1:name="samsung.theme.contacts" />
+    <uses-feature d1p1:name="samsung.theme.coreapps" />
+    <uses-feature d1p1:name="samsung.theme.daemonapp" />
+    <uses-feature d1p1:name="samsung.theme.diagmonagent" />
+    <uses-feature d1p1:name="samsung.theme.dmb" />
+    <uses-feature d1p1:name="samsung.theme.firewall" />
+    <uses-feature d1p1:name="samsung.theme.fotaclient" />
+    <uses-feature d1p1:name="samsung.theme.galaxyfinder" />
+    <uses-feature d1p1:name="samsung.theme.galaxylabs" />
+    <uses-feature d1p1:name="samsung.theme.gallery3d" />
+    <uses-feature d1p1:name="samsung.theme.gametools" />
+    <uses-feature d1p1:name="samsung.theme.hearingadjust" />
+    <uses-feature d1p1:name="samsung.theme.incallui" />
+    <uses-feature d1p1:name="samsung.theme.inputmethod" />
+    <uses-feature d1p1:name="samsung.theme.inputmethod_cn" />
+    <uses-feature d1p1:name="samsung.theme.iris" />
+    <uses-feature d1p1:name="samsung.theme.japan" />
+    <uses-feature d1p1:name="samsung.theme.media" />
+    <uses-feature d1p1:name="samsung.theme.memo" />
+    <uses-feature d1p1:name="samsung.theme.mms" />
+    <uses-feature d1p1:name="samsung.theme.mobiletv" />
+    <uses-feature d1p1:name="samsung.theme.myfiles" />
+    <uses-feature d1p1:name="samsung.theme.omcagent" />
+    <uses-feature d1p1:name="samsung.theme.opencalendar" />
+    <uses-feature d1p1:name="samsung.theme.peoplestripe" />
+    <uses-feature d1p1:name="samsung.theme.phone" />
+    <uses-feature d1p1:name="samsung.theme.policydm" />
+    <uses-feature d1p1:name="samsung.theme.popupcalculator" />
+    <uses-feature d1p1:name="samsung.theme.provider" />
+    <uses-feature d1p1:name="samsung.theme.qconnect" />
+    <uses-feature d1p1:name="samsung.theme.safetyassurance" />
+    <uses-feature d1p1:name="samsung.theme.scloud" />
+    <uses-feature d1p1:name="samsung.theme.securitylogagent" />
+    <uses-feature d1p1:name="samsung.theme.settings" />
+    <uses-feature d1p1:name="samsung.theme.simcardmgr" />
+    <uses-feature d1p1:name="samsung.theme.simsettingmgr" />
+    <uses-feature d1p1:name="samsung.theme.sm" />
+    <uses-feature d1p1:name="samsung.theme.smt" />
+    <uses-feature d1p1:name="samsung.theme.talkback" />
+    <uses-feature d1p1:name="samsung.theme.taskedge" />
+    <uses-feature d1p1:name="samsung.theme.taskmanager" />
+    <uses-feature d1p1:name="samsung.theme.universalswitch" />
+    <uses-feature d1p1:name="samsung.theme.weather" />
+    <uses-feature d1p1:name="samsung.theme.writingbuddyservice" />
+    <uses-feature d1p1:name="samsung.theme.wsomacp" />
+    <uses-feature d1p1:name="samsung.theme.wssyncmldm" />
 </manifest>

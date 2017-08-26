@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="tw_ab_bottom_transparent_mtrl" id="0x7f020000" />
+    <public type="drawable" name="tw_sub_action_bar_bg_mtrl" id="0x7f020001" />
+    <public type="color" name="sub_app_bar_text_color" id="0x7f030000" />
+    <public type="color" name="body_text_color" id="0x7f030001" />
+    <public type="color" name="highlight_text_color" id="0x7f030002" />
+    <public type="color" name="main_text_color" id="0x7f030003" />
+    <public type="color" name="bottom_bar_text_color" id="0x7f030004" />
+    <public type="color" name="default_divider" id="0x7f030005" />
+</resources>

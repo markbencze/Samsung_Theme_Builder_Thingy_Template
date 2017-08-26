@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <bool name="config_theme_is_additional">true</bool>
-    <bool name="window_light_status_bar">false</bool>
-    <bool name="window_light_status_bar_dark_action_bar">false</bool>
-</resources>

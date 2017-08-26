@@ -2,10 +2,76 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LGThemeTemplate.iml" filepath="$PROJECT_DIR$/LGThemeTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/_app/_app.iml" filepath="$PROJECT_DIR$/_app/_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accesscontrol/accesscontrol.iml" filepath="$PROJECT_DIR$/accesscontrol/accesscontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advsounddetector/advsounddetector.iml" filepath="$PROJECT_DIR$/advsounddetector/advsounddetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aircommand/aircommand.iml" filepath="$PROJECT_DIR$/aircommand/aircommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aodservice/aodservice.iml" filepath="$PROJECT_DIR$/aodservice/aodservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appicon/appicon.iml" filepath="$PROJECT_DIR$/appicon/appicon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appsedge/appsedge.iml" filepath="$PROJECT_DIR$/appsedge/appsedge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assistantmenu/assistantmenu.iml" filepath="$PROJECT_DIR$/assistantmenu/assistantmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blackout.systemui.overlay/blackout.systemui.overlay.iml" filepath="$PROJECT_DIR$/blackout.systemui.overlay/blackout.systemui.overlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendar/calendar.iml" filepath="$PROJECT_DIR$/calendar/calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capabilitymanager/capabilitymanager.iml" filepath="$PROJECT_DIR$/capabilitymanager/capabilitymanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clockpackage/clockpackage.iml" filepath="$PROJECT_DIR$/clockpackage/clockpackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cocktailbarservice/cocktailbarservice.iml" filepath="$PROJECT_DIR$/cocktailbarservice/cocktailbarservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contacts/contacts.iml" filepath="$PROJECT_DIR$/contacts/contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coreapps/coreapps.iml" filepath="$PROJECT_DIR$/coreapps/coreapps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daemonapp/daemonapp.iml" filepath="$PROJECT_DIR$/daemonapp/daemonapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diagmonagent/diagmonagent.iml" filepath="$PROJECT_DIR$/diagmonagent/diagmonagent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmb/dmb.iml" filepath="$PROJECT_DIR$/dmb/dmb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firewall/firewall.iml" filepath="$PROJECT_DIR$/firewall/firewall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fotaclient/fotaclient.iml" filepath="$PROJECT_DIR$/fotaclient/fotaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/galaxyfinder/galaxyfinder.iml" filepath="$PROJECT_DIR$/galaxyfinder/galaxyfinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/galaxylabs/galaxylabs.iml" filepath="$PROJECT_DIR$/galaxylabs/galaxylabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gallery3d/gallery3d.iml" filepath="$PROJECT_DIR$/gallery3d/gallery3d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gametools/gametools.iml" filepath="$PROJECT_DIR$/gametools/gametools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hearingadjust/hearingadjust.iml" filepath="$PROJECT_DIR$/hearingadjust/hearingadjust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home/home.iml" filepath="$PROJECT_DIR$/home/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/incallui/incallui.iml" filepath="$PROJECT_DIR$/incallui/incallui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inputmethod/inputmethod.iml" filepath="$PROJECT_DIR$/inputmethod/inputmethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inputmethod_cn/inputmethod_cn.iml" filepath="$PROJECT_DIR$/inputmethod_cn/inputmethod_cn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iris/iris.iml" filepath="$PROJECT_DIR$/iris/iris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/japan/japan.iml" filepath="$PROJECT_DIR$/japan/japan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lock/lock.iml" filepath="$PROJECT_DIR$/lock/lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lool/lool.iml" filepath="$PROJECT_DIR$/lool/lool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memo/memo.iml" filepath="$PROJECT_DIR$/memo/memo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mms/mms.iml" filepath="$PROJECT_DIR$/mms/mms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobiletv/mobiletv.iml" filepath="$PROJECT_DIR$/mobiletv/mobiletv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfiles/myfiles.iml" filepath="$PROJECT_DIR$/myfiles/myfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navbar/navbar.iml" filepath="$PROJECT_DIR$/navbar/navbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offical theme tool source.iml" filepath="$PROJECT_DIR$/offical theme tool source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/omcagent/omcagent.iml" filepath="$PROJECT_DIR$/omcagent/omcagent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opencalendar/opencalendar.iml" filepath="$PROJECT_DIR$/opencalendar/opencalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peoplestripe/peoplestripe.iml" filepath="$PROJECT_DIR$/peoplestripe/peoplestripe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phone/phone.iml" filepath="$PROJECT_DIR$/phone/phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/policydm/policydm.iml" filepath="$PROJECT_DIR$/policydm/policydm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupcalculator/popupcalculator.iml" filepath="$PROJECT_DIR$/popupcalculator/popupcalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qconnect/qconnect.iml" filepath="$PROJECT_DIR$/qconnect/qconnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safetyassurance/safetyassurance.iml" filepath="$PROJECT_DIR$/safetyassurance/safetyassurance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scloud/scloud.iml" filepath="$PROJECT_DIR$/scloud/scloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/securitylogagent/securitylogagent.iml" filepath="$PROJECT_DIR$/securitylogagent/securitylogagent.iml" />
       <module fileurl="file://$PROJECT_DIR$/settings/settings.iml" filepath="$PROJECT_DIR$/settings/settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simcardmgr/simcardmgr.iml" filepath="$PROJECT_DIR$/simcardmgr/simcardmgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simsettingmgr/simsettingmgr.iml" filepath="$PROJECT_DIR$/simsettingmgr/simsettingmgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sm/sm.iml" filepath="$PROJECT_DIR$/sm/sm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sm_cn/sm_cn.iml" filepath="$PROJECT_DIR$/sm_cn/sm_cn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartmirroring/smartmirroring.iml" filepath="$PROJECT_DIR$/smartmirroring/smartmirroring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smt/smt.iml" filepath="$PROJECT_DIR$/smt/smt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/talkback/talkback.iml" filepath="$PROJECT_DIR$/talkback/talkback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskedge/taskedge.iml" filepath="$PROJECT_DIR$/taskedge/taskedge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmanager/taskmanager.iml" filepath="$PROJECT_DIR$/taskmanager/taskmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchwiz/touchwiz.iml" filepath="$PROJECT_DIR$/touchwiz/touchwiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unifiedprofile/unifiedprofile.iml" filepath="$PROJECT_DIR$/unifiedprofile/unifiedprofile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universalswitch/universalswitch.iml" filepath="$PROJECT_DIR$/universalswitch/universalswitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wallpaper/wallpaper.iml" filepath="$PROJECT_DIR$/wallpaper/wallpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather/weather.iml" filepath="$PROJECT_DIR$/weather/weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/writingbuddyservice/writingbuddyservice.iml" filepath="$PROJECT_DIR$/writingbuddyservice/writingbuddyservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wsomacp/wsomacp.iml" filepath="$PROJECT_DIR$/wsomacp/wsomacp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wssyncmldm/wssyncmldm.iml" filepath="$PROJECT_DIR$/wssyncmldm/wssyncmldm.iml" />
     </modules>
   </component>
 </project>

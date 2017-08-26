@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sub_app_bar_text_color">#ccffffff</color>
+    <color name="body_text_color">#7fffffff</color>
+    <color name="highlight_text_color">#34a853</color>
+    <color name="main_text_color">#e5ffffff</color>
+    <color name="bottom_bar_text_color">#34a853</color>
+    <color name="default_divider">#0affffff</color>
+</resources>

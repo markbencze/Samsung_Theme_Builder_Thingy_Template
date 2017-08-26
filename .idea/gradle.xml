@@ -3,15 +3,80 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/_app" />
+            <option value="$PROJECT_DIR$/accesscontrol" />
+            <option value="$PROJECT_DIR$/advsounddetector" />
+            <option value="$PROJECT_DIR$/aircommand" />
+            <option value="$PROJECT_DIR$/aodservice" />
+            <option value="$PROJECT_DIR$/appicon" />
+            <option value="$PROJECT_DIR$/appsedge" />
+            <option value="$PROJECT_DIR$/assistantmenu" />
+            <option value="$PROJECT_DIR$/blackout.systemui.overlay" />
+            <option value="$PROJECT_DIR$/calendar" />
+            <option value="$PROJECT_DIR$/capabilitymanager" />
+            <option value="$PROJECT_DIR$/clockpackage" />
+            <option value="$PROJECT_DIR$/cocktailbarservice" />
             <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/contacts" />
+            <option value="$PROJECT_DIR$/coreapps" />
+            <option value="$PROJECT_DIR$/daemonapp" />
+            <option value="$PROJECT_DIR$/diagmonagent" />
+            <option value="$PROJECT_DIR$/dmb" />
+            <option value="$PROJECT_DIR$/firewall" />
+            <option value="$PROJECT_DIR$/fotaclient" />
+            <option value="$PROJECT_DIR$/galaxyfinder" />
+            <option value="$PROJECT_DIR$/galaxylabs" />
+            <option value="$PROJECT_DIR$/gallery3d" />
+            <option value="$PROJECT_DIR$/gametools" />
+            <option value="$PROJECT_DIR$/hearingadjust" />
+            <option value="$PROJECT_DIR$/home" />
+            <option value="$PROJECT_DIR$/incallui" />
+            <option value="$PROJECT_DIR$/inputmethod" />
+            <option value="$PROJECT_DIR$/inputmethod_cn" />
+            <option value="$PROJECT_DIR$/iris" />
+            <option value="$PROJECT_DIR$/japan" />
+            <option value="$PROJECT_DIR$/lock" />
+            <option value="$PROJECT_DIR$/lool" />
+            <option value="$PROJECT_DIR$/media" />
+            <option value="$PROJECT_DIR$/memo" />
+            <option value="$PROJECT_DIR$/mms" />
+            <option value="$PROJECT_DIR$/mobiletv" />
+            <option value="$PROJECT_DIR$/myfiles" />
+            <option value="$PROJECT_DIR$/navbar" />
+            <option value="$PROJECT_DIR$/omcagent" />
+            <option value="$PROJECT_DIR$/opencalendar" />
+            <option value="$PROJECT_DIR$/peoplestripe" />
+            <option value="$PROJECT_DIR$/phone" />
+            <option value="$PROJECT_DIR$/policydm" />
+            <option value="$PROJECT_DIR$/popupcalculator" />
+            <option value="$PROJECT_DIR$/provider" />
+            <option value="$PROJECT_DIR$/qconnect" />
+            <option value="$PROJECT_DIR$/safetyassurance" />
+            <option value="$PROJECT_DIR$/scloud" />
+            <option value="$PROJECT_DIR$/securitylogagent" />
             <option value="$PROJECT_DIR$/settings" />
+            <option value="$PROJECT_DIR$/simcardmgr" />
+            <option value="$PROJECT_DIR$/simsettingmgr" />
+            <option value="$PROJECT_DIR$/sm" />
+            <option value="$PROJECT_DIR$/sm_cn" />
+            <option value="$PROJECT_DIR$/smartmirroring" />
+            <option value="$PROJECT_DIR$/smt" />
+            <option value="$PROJECT_DIR$/talkback" />
+            <option value="$PROJECT_DIR$/taskedge" />
+            <option value="$PROJECT_DIR$/taskmanager" />
+            <option value="$PROJECT_DIR$/touchwiz" />
+            <option value="$PROJECT_DIR$/unifiedprofile" />
+            <option value="$PROJECT_DIR$/universalswitch" />
+            <option value="$PROJECT_DIR$/wallpaper" />
+            <option value="$PROJECT_DIR$/weather" />
+            <option value="$PROJECT_DIR$/writingbuddyservice" />
+            <option value="$PROJECT_DIR$/wsomacp" />
+            <option value="$PROJECT_DIR$/wssyncmldm" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
